@@ -15,4 +15,5 @@ D- Diccionarios
 E- Funciones
 F- Funciones Lambda
 
+![image](https://github.com/FedeGG09/Curso-Introductorio-Python/assets/122370500/34d1ee7a-d069-428e-926f-7a49d5ac7c60)
 
